@@ -11,7 +11,7 @@
 
 A preocupação com a destinação correta dos resíduos sólidos vem aumentando na sociedade, pela conscientização das pessoas ou pela urgência que as pautas ambientais promovem. O descarte incorreto dos resíduos sólidos é prejudicial por vários motivos, para as pessoas, fauna, flora, água, solo e ar, ou seja, para o planeta como um todo. Dessa forma, este projeto possui como objetivo desenvolver um site para a conscientização da destinação correta dos resíduos sólidos urbanos, além de informações sobre reciclagem, assuntos relacionados, bem como inovações existentes nessa área. Por intermédio deste site, espera-se colaborar para a conscientização da população, para a qualidade de vida e a gestão ambiental.
 
-O site está disponível através do endereço: https://sabrinaayala.github.io/tcc-recicle-ja](https://sabrinaayala.github.io/tcc-recicle-ja/) 
+O site está disponível através do endereço: [https://sabrinaayala.github.io/tcc-recicle-ja](https://sabrinaayala.github.io/tcc-recicle-ja/) 
 ---
 
 ## 🛠 Tecnologias
