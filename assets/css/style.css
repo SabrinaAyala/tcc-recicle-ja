@@ -1554,3 +1554,9 @@ section {
 .img-pequena{
   width: 100%;
 }
+
+.img-introducao{
+  max-width: 60%;
+  height: 60%;
+  object-fit: cover;
+}
